@@ -1,7 +1,7 @@
 {
   "name": "com.unity.nuget.newtonsoft-json",
   "displayName": "Empty Newtonsoft Json",
-  "version": "9.9.0",
+  "version": "99.9.9",
   "unity": "2018.4",
   "description": "An empty implementation of the UPM Newtonsoft Json for use in Unity projects and Unity packages.",
   "type": "library"
